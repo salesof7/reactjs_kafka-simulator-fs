@@ -17,6 +17,7 @@ export function Home() {
 
           <div className="flex flex-row w-full justify-between mt-6">
             <Form />
+
             <div className="flex flex-row gap-8 pr-6">
               <a href="https://www.linkedin.com/in/salesof7/">
                 <LinkedInIcon
